@@ -1,0 +1,6 @@
+@startuml
+Class wordFind{
++{static}void main(String[] args)
++{static}void wFile(File f, String fileName)
+}
+@enduml

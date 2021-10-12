@@ -1,0 +1,13 @@
+@startuml
+class NameSorter{
++{static} int count();
++ {static}String[] s(String [] c,int n);
++{static}void main(String[] args)
+
+
+
+
+
+}
+
+@enduml

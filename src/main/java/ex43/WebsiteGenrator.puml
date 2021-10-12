@@ -1,0 +1,6 @@
+@startuml
+Class WebsiteGenerator{
++{static} void createFile(String c)
++{static} void main(String[] args)
+}
+@enduml

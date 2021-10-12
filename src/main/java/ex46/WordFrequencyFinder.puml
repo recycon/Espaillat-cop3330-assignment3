@@ -1,0 +1,10 @@
+@startuml
+Class WordFrequency{
+-int count;
+-String name;
++{Static} void stars(int s)
++WordFrq[] sort(WordFrq b[])
++WordFrq(String name, int count)
++{static} void main(String[] args)
+}
+@enduml
